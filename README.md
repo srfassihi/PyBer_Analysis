@@ -37,7 +37,7 @@ Over 80% of drivers serviced the urban areas during the same time period. This f
 
 ## Summary
 Below is a summary of the totals for each area: Urban, Suburban and Rural. It shows that riders in the rural areas have to pay on average ~$10 per ride more than their urban counterparts. This could be factored due to higher availability of drivers, larger population density, and shorter distances traveled in the urban areas. 
-- Shorter distances can be attributed to availability of Public Transportation options such as buses and trains in those areas as well. Due to lack of access to these public resources most potential PyBer customers may be encouraged to provide their own transportation method. 
+- Shorter distances can be attributed to availability of Public Transportation options such as buses and trains in those areas as well. Due to lack of access to these public resources most potential PyBer customers may be encouraged to provide their own transportation method in non urban areas. 
 - Lack of riders may also pose a problem for drivers as well which rely on the PyBer fares for their livelihood. PyBer can find ways to incentivize drivers in rural and suburban areas where there is a potential market. Further market analysis can be done to identify which specific cities are most suitable for these subsidies.
 ![Summary DataFrame](https://github.com/srfassihi/PyBer_Analysis/blob/e994fc5b32c6c37cd3e7795f854b919a36e0a73d/analysis/Summary%20df.png)
 
